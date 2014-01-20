@@ -1,0 +1,85 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bikel and Chiang(2000)]{bikel2000two}
+Daniel~M Bikel and David Chiang.
+\newblock Two statistical parsing models applied to the chinese treebank.
+\newblock In \emph{Proceedings of the second workshop on Chinese language
+  processing: held in conjunction with the 38th Annual Meeting of the
+  Association for Computational Linguistics-Volume 12}, pages 1--6. Association
+  for Computational Linguistics, 2000.
+
+\bibitem[Buchholz and Marsi(2006)]{buchholz2006conll}
+Sabine Buchholz and Erwin Marsi.
+\newblock Conll-x shared task on multilingual dependency parsing.
+\newblock In \emph{Proceedings of the Tenth Conference on Computational Natural
+  Language Learning}, pages 149--164. Association for Computational
+  Linguistics, 2006.
+
+\bibitem[Carreras(2007)]{carreras2007experiments}
+Xavier Carreras.
+\newblock Experiments with a higher-order projective dependency parser.
+\newblock In \emph{EMNLP-CoNLL}, pages 957--961, 2007.
+
+\bibitem[Che et~al.(2010)Che, Li, and Liu]{che2010ltp}
+Wanxiang Che, Zhenghua Li, and Ting Liu.
+\newblock Ltp: A chinese language technology platform.
+\newblock In \emph{Proceedings of the 23rd International Conference on
+  Computational Linguistics: Demonstrations}, pages 13--16. Association for
+  Computational Linguistics, 2010.
+
+\bibitem[Chiang and Bikel(2002)]{Chiang:2002}
+David Chiang and Daniel~M. Bikel.
+\newblock Recovering latent information in treebanks.
+\newblock In \emph{Proceedings of the 19th International Conference on
+  Computational Linguistics - Volume 1}, COLING '02, pages 1--7, Stroudsburg,
+  PA, USA, 2002. Association for Computational Linguistics.
+\newblock \doi{10.3115/1072228.1072354}.
+\newblock URL \url{http://dx.doi.org/10.3115/1072228.1072354}.
+
+\bibitem[Duan et~al.(2007)Duan, Zhao, and Xu]{duan2007probabilistic}
+Xiangyu Duan, Jun Zhao, and Bo~Xu.
+\newblock Probabilistic parsing action models for multi-lingual dependency
+  parsing.
+\newblock In \emph{EMNLP-CoNLL}, pages 940--946, 2007.
+
+\bibitem[Nilsson et~al.(2007)Nilsson, Riedel, and Yuret]{nilsson2007conll}
+Jens Nilsson, Sebastian Riedel, and Deniz Yuret.
+\newblock The conll 2007 shared task on dependency parsing.
+\newblock In \emph{Proceedings of the CoNLL Shared Task Session of
+  EMNLP-CoNLL}, pages 915--932. sn, 2007.
+
+\bibitem[Nivre et~al.(2007)Nivre, Hall, Nilsson, Chanev, Eryigit, K{\"u}bler,
+  Marinov, and Marsi]{nivre2007maltparser}
+Joakim Nivre, Johan Hall, Jens Nilsson, Atanas Chanev, G{\"u}lsen Eryigit,
+  Sandra K{\"u}bler, Svetoslav Marinov, and Erwin Marsi.
+\newblock Maltparser: A language-independent system for data-driven dependency
+  parsing.
+\newblock \emph{Natural Language Engineering}, 13\penalty0 (2):\penalty0
+  95--135, 2007.
+
+\bibitem[Sagae and Tsujii(2007)]{sagae2007dependency}
+Kenji Sagae and Jun'ichi Tsujii.
+\newblock Dependency parsing and domain adaptation with lr models and parser
+  ensembles.
+\newblock In \emph{EMNLP-CoNLL}, volume 2007, pages 1044--1050, 2007.
+
+\bibitem[Xia(1999)]{xia1999extracting}
+Fei Xia.
+\newblock Extracting tree adjoining grammars from bracketed corpora.
+\newblock In \emph{Proceedings of the 5th Natural Language Processing Pacific
+  Rim Symposium (NLPRS-99)}, pages 398--403, 1999.
+
+\bibitem[Zhang and Clark(2008)]{zhang2008tale}
+Yue Zhang and Stephen Clark.
+\newblock A tale of two parsers: investigating and combining graph-based and
+  transition-based dependency parsing using beam-search.
+\newblock In \emph{Proceedings of the Conference on Empirical Methods in
+  Natural Language Processing}, pages 562--571. Association for Computational
+  Linguistics, 2008.
+
+\end{thebibliography}

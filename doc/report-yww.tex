@@ -1,0 +1,102 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage{fullpage}
+\usepackage[pdftex]{graphicx}
+\usepackage{amsfonts,eucal,amsbsy,amsopn,amsmath}
+\usepackage{url}
+\usepackage[sort&compress]{natbib}
+\usepackage{natbibspacing}
+\usepackage{latexsym}
+\usepackage{wasysym} 
+\usepackage{rotating}
+\usepackage{fancyhdr}
+\DeclareMathOperator*{\argmax}{argmax}
+\DeclareMathOperator*{\argmin}{argmin}
+\usepackage{sectsty}
+\usepackage[dvipsnames,usenames]{color}
+\usepackage{multicol}
+\definecolor{orange}{rgb}{1,0.5,0}
+\usepackage{multirow}
+\usepackage{sidecap}
+\usepackage{caption}
+\renewcommand{\captionfont}{\small}
+\setlength{\oddsidemargin}{-0.04cm}
+\setlength{\textwidth}{16.59cm}
+\setlength{\topmargin}{-0.04cm}
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in}
+\setlength{\textheight}{22.94cm}
+\allsectionsfont{\normalsize}
+\newcommand{\ignore}[1]{}
+\newcommand{\thedate}{\today}
+\newenvironment{enumeratesquish}{\begin{list}{\addtocounter{enumi}{1}\arabic{enumi}.}{\setlength{\itemsep}{-0.25em}\setlength{\leftmargin}{1em}\addtolength{\leftmargin}{\labelsep}}}{\end{list}}
+\newenvironment{itemizesquish}{\begin{list}{\setcounter{enumi}{0}\labelitemi}{\setlength{\itemsep}{-0.25em}\setlength{\labelwidth}{0.5em}\setlength{\leftmargin}{\labelwidth}\addtolength{\leftmargin}{\labelsep}}}{\end{list}}
+
+\bibpunct{(}{)}{;}{a}{,}{,}
+\newcommand{\nascomment}[1]{\textcolor{blue}{\textbf{[#1 --NAS]}}}
+
+
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{\thepage~of \pageref{lastpage}}
+\rfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+
+\title{11-712:  NLP Lab Report}
+\author{William Yang Wang\\
+ww@cmu.edu}
+%\data{January 17, 2014}
+\date{\today}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+Dependency parsing is a core task in NLP, and it is a widely used by many applications such as information extraction,
+question answering, and machine translation. In general, the resources for Chinese dependency parsing are less accessible than English, and publicly available Chinese dependency parsers are still very limited. In this project, the goal is to build a Chinese dependency parser that can be used by others.
+\end{abstract}
+
+\section{Basic Information about Chinese Dependency Parsing}
+Chinese dependency parsing has attracted many interests in the past decade.
+\cite{bikel2000two} and \citet{Chiang:2002} are among the first to use Penn Chinese Tree Bank for dependency parsing,
+where they adapted~\cite{xia1999extracting}'s head rules.
+A few years later, the CoNLL shared task opened a track for multilingual dependency parsing,
+which also included Chinese~\citep{buchholz2006conll,nilsson2007conll}.
+These shared tasks soon popularized Chinese dependency parsing by making datasets available,
+and there has been growing amount of literature since then~\citep{zhang2008tale,nivre2007maltparser,sagae2007dependency,
+che2010ltp,carreras2007experiments,duan2007probabilistic}.
+In this work, we aim at building a new publicly available Chinese dependency parsing, using 
+new technologies that aim at improving the accuracy of the state-of-the-art.
+
+\section{Past Work on the Syntax of Chinese}
+
+\section{Available Resources}
+
+%\nascomment{include discussion of resources, including your annotated datasets}
+
+\section{Survey of Phenomena in Chinese Dependency Parsing}
+
+\section{Initial Design}
+
+\section{System Analysis on Corpus A}
+
+\section{Lessons Learned and Revised Design}
+
+\section{System Analysis on Corpus B}
+
+\section{Final Revisions}
+
+\section{Future Work}
+
+
+
+
+
+\bibliographystyle{plainnat}
+\bibliography{parsing}
+
+\label{lastpage}
+\end{document}
