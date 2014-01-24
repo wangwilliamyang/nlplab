@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -25,6 +25,20 @@ Xavier Carreras.
 \newblock Experiments with a higher-order projective dependency parser.
 \newblock In \emph{EMNLP-CoNLL}, pages 957--961, 2007.
 
+\bibitem[Chang et~al.(2009)Chang, Tseng, Jurafsky, and
+  Manning]{chang2009discriminative}
+Pi-Chuan Chang, Huihsin Tseng, Dan Jurafsky, and Christopher~D Manning.
+\newblock Discriminative reordering with chinese grammatical relations
+  features.
+\newblock In \emph{Proceedings of the Third Workshop on Syntax and Structure in
+  Statistical Translation}, pages 51--59. Association for Computational
+  Linguistics, 2009.
+
+\bibitem[Chao(1968)]{chao1968grammar}
+Yuen~Ren Chao.
+\newblock \emph{A grammar of spoken Chinese}.
+\newblock University of California Pr, 1968.
+
 \bibitem[Che et~al.(2010)Che, Li, and Liu]{che2010ltp}
 Wanxiang Che, Zhenghua Li, and Ting Liu.
 \newblock Ltp: A chinese language technology platform.
@@ -41,11 +55,57 @@ David Chiang and Daniel~M. Bikel.
 \newblock \doi{10.3115/1072228.1072354}.
 \newblock URL \url{http://dx.doi.org/10.3115/1072228.1072354}.
 
+\bibitem[Dai(1992)]{dai1992chinese}
+Xiang-Ling Dai.
+\newblock \emph{Chinese morphology and its interface with syntax}.
+\newblock PhD thesis, Ohio State University, 1992.
+
 \bibitem[Duan et~al.(2007)Duan, Zhao, and Xu]{duan2007probabilistic}
 Xiangyu Duan, Jun Zhao, and Bo~Xu.
 \newblock Probabilistic parsing action models for multi-lingual dependency
   parsing.
 \newblock In \emph{EMNLP-CoNLL}, pages 940--946, 2007.
+
+\bibitem[Duanmu(1998)]{duanmu1998wordhood}
+San Duanmu.
+\newblock Wordhood in chinese.
+\newblock \emph{New approaches to Chinese word formation: Morphology, phonology
+  and the lexicon in modern and ancient Chinese}, pages 135--196, 1998.
+
+\bibitem[Huang et~al.(2009)Huang, Li, and Li]{huang2009syntax}
+Cheng-Teh~James Huang, Yen-hui~Audrey Li, and Yafei Li.
+\newblock \emph{The syntax of Chinese}.
+\newblock Cambridge University Press Cambridge, 2009.
+
+\bibitem[Jiang et~al.(2008)Jiang, Huang, Liu, and L{\"u}]{jiang2008cascaded}
+Wenbin Jiang, Liang Huang, Qun Liu, and Yajuan L{\"u}.
+\newblock A cascaded linear model for joint chinese word segmentation and
+  part-of-speech tagging.
+\newblock In \emph{In Proceedings of the 46th Annual Meeting of the Association
+  for Computational Linguistics}. Citeseer, 2008.
+
+\bibitem[Krifka(1995)]{krifka1995common}
+Manfred Krifka.
+\newblock Common nouns: A contrastive analysis of chinese and english.
+\newblock \emph{The generic book}, pages 398--411, 1995.
+
+\bibitem[Levy and Manning(2003)]{levy2003harder}
+Roger Levy and Christopher Manning.
+\newblock Is it harder to parse chinese, or the chinese treebank?
+\newblock In \emph{Proceedings of the 41st Annual Meeting on Association for
+  Computational Linguistics-Volume 1}, pages 439--446. Association for
+  Computational Linguistics, 2003.
+
+\bibitem[Li(1972)]{li1972semantics}
+Charles~Na Li.
+\newblock \emph{Semantics and the structure of compounds in Chinese}.
+\newblock PhD thesis, University of California, Berkeley, 1972.
+
+\bibitem[Ng and Low(2004)]{ng2004chinese}
+Hwee~Tou Ng and Jin~Kiat Low.
+\newblock Chinese part-of-speech tagging: One-at-a-time or all-at-once?
+  word-based or character-based?
+\newblock In \emph{EMNLP}, pages 277--284, 2004.
 
 \bibitem[Nilsson et~al.(2007)Nilsson, Riedel, and Yuret]{nilsson2007conll}
 Jens Nilsson, Sebastian Riedel, and Deniz Yuret.
@@ -62,17 +122,95 @@ Joakim Nivre, Johan Hall, Jens Nilsson, Atanas Chanev, G{\"u}lsen Eryigit,
 \newblock \emph{Natural Language Engineering}, 13\penalty0 (2):\penalty0
   95--135, 2007.
 
+\bibitem[Qiu et~al.(2013)Qiu, Zhang, and Huang]{qiu2013fudannlp}
+Xipeng Qiu, Qi~Zhang, and Xuanjing Huang.
+\newblock Fudannlp: A toolkit for chinese natural language processing.
+\newblock In \emph{Proceedings of ACL}. Citeseer, 2013.
+
 \bibitem[Sagae and Tsujii(2007)]{sagae2007dependency}
 Kenji Sagae and Jun'ichi Tsujii.
 \newblock Dependency parsing and domain adaptation with lr models and parser
   ensembles.
 \newblock In \emph{EMNLP-CoNLL}, volume 2007, pages 1044--1050, 2007.
 
+\bibitem[Shen(1990)]{shen1990prosody}
+Xiao-nan~Susan Shen.
+\newblock \emph{The Prosody of Mandarin Chinese}, volume 118.
+\newblock University of California Pr, 1990.
+
+\bibitem[Sproat and Emerson(2003)]{sproat2003first}
+Richard Sproat and Thomas Emerson.
+\newblock The first international chinese word segmentation bakeoff.
+\newblock In \emph{Proceedings of the second SIGHAN workshop on Chinese
+  language processing-Volume 17}, pages 133--143. Association for Computational
+  Linguistics, 2003.
+
+\bibitem[Sproat and Shih(2002)]{sproat2002corpus}
+Richard Sproat and Chilin Shih.
+\newblock Corpus-based methods in chinese morphology.
+\newblock \emph{Tutorial at the 19th COLING}, 2002.
+
+\bibitem[Tang(1989)]{tang1989studies}
+Ting-Chi Tang.
+\newblock Studies on chinese morphology and syntax: 2.
+\newblock \emph{Taipei: Student Book Co}, 1989.
+
+\bibitem[Wang et~al.(2006)Wang, Sagae, and Mitamura]{wang2006fast}
+Mengqiu Wang, Kenji Sagae, and Teruko Mitamura.
+\newblock A fast, accurate deterministic parser for chinese.
+\newblock In \emph{Proceedings of the 21st International Conference on
+  Computational Linguistics and the 44th annual meeting of the Association for
+  Computational Linguistics}, pages 425--432. Association for Computational
+  Linguistics, 2006.
+
+\bibitem[Wu(1997)]{wu1997stochastic}
+Dekai Wu.
+\newblock Stochastic inversion transduction grammars and bilingual parsing of
+  parallel corpora.
+\newblock \emph{Computational linguistics}, 23\penalty0 (3):\penalty0 377--403,
+  1997.
+
+\bibitem[Wu(1999)]{wu1999syntax}
+Jianxin Wu.
+\newblock \emph{Syntax and semantics of quantification in Chinese}.
+\newblock PhD thesis, research directed by Dept. of Linguistics.University of
+  Maryland, College Park, 1999.
+
+\bibitem[Wu et~al.(2005)Wu, Zhao, Xu, and Yu]{wu2005chinese}
+Youzheng Wu, Jun Zhao, Bo~Xu, and Hao Yu.
+\newblock Chinese named entity recognition based on multiple features.
+\newblock In \emph{Proceedings of the conference on Human Language Technology
+  and Empirical Methods in Natural Language Processing}, pages 427--434.
+  Association for Computational Linguistics, 2005.
+
 \bibitem[Xia(1999)]{xia1999extracting}
 Fei Xia.
 \newblock Extracting tree adjoining grammars from bracketed corpora.
 \newblock In \emph{Proceedings of the 5th Natural Language Processing Pacific
   Rim Symposium (NLPRS-99)}, pages 398--403, 1999.
+
+\bibitem[Xue and Shen(2003)]{xue2003chinese}
+Nianwen Xue and Libin Shen.
+\newblock Chinese word segmentation as lmr tagging.
+\newblock In \emph{Proceedings of the second SIGHAN workshop on Chinese
+  language processing-Volume 17}, pages 176--179. Association for Computational
+  Linguistics, 2003.
+
+\bibitem[Zhang et~al.(2003)Zhang, Yu, Xiong, and Liu]{zhang2003hhmm}
+Hua-Ping Zhang, Hong-Kui Yu, De-Yi Xiong, and Qun Liu.
+\newblock Hhmm-based chinese lexical analyzer ictclas.
+\newblock In \emph{Proceedings of the second SIGHAN workshop on Chinese
+  language processing-Volume 17}, pages 184--187. Association for Computational
+  Linguistics, 2003.
+
+\bibitem[Zhang et~al.(2000)Zhang, Gao, and Zhou]{zhang2000extraction}
+Jian Zhang, Jianfeng Gao, and Ming Zhou.
+\newblock Extraction of chinese compound words: an experimental study on a very
+  large corpus.
+\newblock In \emph{Proceedings of the second workshop on Chinese language
+  processing: held in conjunction with the 38th Annual Meeting of the
+  Association for Computational Linguistics-Volume 12}, pages 132--139.
+  Association for Computational Linguistics, 2000.
 
 \bibitem[Zhang and Clark(2008)]{zhang2008tale}
 Yue Zhang and Stephen Clark.
@@ -81,5 +219,20 @@ Yue Zhang and Stephen Clark.
 \newblock In \emph{Proceedings of the Conference on Empirical Methods in
   Natural Language Processing}, pages 562--571. Association for Computational
   Linguistics, 2008.
+
+\bibitem[Zhao et~al.(2006)Zhao, Huang, and Li]{zhao2006improved}
+Hai Zhao, Chang-Ning Huang, and Mu~Li.
+\newblock An improved chinese word segmentation system with conditional random
+  field.
+\newblock In \emph{Proceedings of the Fifth SIGHAN Workshop on Chinese Language
+  Processing}, volume 1082117. Sydney: July, 2006.
+
+\bibitem[Zhou et~al.(1999)Zhou, Marslen-Wilson, Taft, and
+  Shu]{zhou1999morphology}
+Xiaolin Zhou, William Marslen-Wilson, Marcus Taft, and Hua Shu.
+\newblock Morphology, orthography, and phonology reading chinese compound
+  words.
+\newblock \emph{Language and Cognitive Processes}, 14\penalty0 (5-6):\penalty0
+  525--565, 1999.
 
 \end{thebibliography}

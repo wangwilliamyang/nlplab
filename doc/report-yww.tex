@@ -60,6 +60,7 @@ question answering, and machine translation. In general, the resources for Chine
 \end{abstract}
 
 \section{Basic Information about Chinese Dependency Parsing}
+\label{sec:info}
 Chinese dependency parsing has attracted many interests in the past decade.
 \cite{bikel2000two} and \citet{Chiang:2002} are among the first to use Penn Chinese Tree Bank for dependency parsing,
 where they adapted~\cite{xia1999extracting}'s head rules.
@@ -72,6 +73,40 @@ In this work, we aim at building a new publicly available Chinese dependency par
 new technologies that aim at improving the accuracy of the state-of-the-art.
 
 \section{Past Work on the Syntax of Chinese}
+\cite{chao1968grammar} is among the first to study the syntax of Chinese. Unlike 
+English, there has been long debate on the wordhood of Chinese~\citep{duanmu1998wordhood}.
+Chao and others' work investigate the free and bound forms,
+prosodic aspects~\citep{shen1990prosody}, semantics~\cite{li1972semantics,wu1999syntax}, and morphological aspects~\citep{tang1989studies,dai1992chinese,sproat2002corpus} to define the unit of word in Chinese.
+In addition, he has also studied the complex compound constructions~\citep{zhou1999morphology,zhang2000extraction} in Chinese,
+as well as the parts of speech such as nouns and verbs~\citep{krifka1995common}.
+More recently, \cite{huang2009syntax} have studied
+the lexical and functional categories,
+argument structure, and the verb phrase in Chinese.
+Moreover, they have discussed the more unique and challenging parts
+of syntax in Chinese: the passives, the \emph{ba} construction,
+and the topic \& relative constructions.
+Interestingly, they have also shed light on some advanced Chinese linguistic issues 
+that have not been well studied in the past: 
+questions, nominal expressions, and anaphora.
+
+Even though there has been many interesting linguistics papers on various aspects
+of syntax in Chinese, the corresponding computational modeling work has been rather limited.
+One of the most popular computational tasks in Chinese NLP is word segmentation~\citep{xue2003chinese,sproat2003first}.
+where researchers have previously investigated sequencial models such as
+hierarchial hidden Markov model~\citep{zhang2003hhmm}, maximum entropy Markov model~\citep{xue2003chinese}, and conditional random fields~\citep{zhao2006improved} for this task.
+In addition to tokenization and segmentation, standard structure prediction tasks such as 
+named entity recognition~\citep{xue2003chinese,wu2005chinese}, part-of-speech tagging~\citep{ng2004chinese,jiang2008cascaded}, and constituency parsing~\citep{wu1997stochastic,wang2006fast}
+have also been studied in the language-specific setups.
+As mentioned in Section~\ref{sec:info}, Chinese dependency parsing was first introduced
+by \cite{bikel2000two}, and then became popular after the CoNLL multilingual shared tasks~\citep{buchholz2006conll,nilsson2007conll}.
+
+In the past decade, there have been growing number of publicly availble Chinese language processing tools.
+ICTCLAS\footnote{http://sewm.pku.edu.cn/QA/reference/ICTCLAS/FreeICTCLAS/English.html} is one of the most popular word segmentation tool in Chinese NLP. The Stanford Chinese NLP constituency parser~\citep{levy2003harder},
+and the dependency parser~\citep{chang2009discriminative} also provide insights for many Chinese NLP applications.
+More recently, more comphrehensive and Chinese-optimized toolkits were also made available~\citep{qiu2013fudannlp,che2010ltp}.
+To the best of my knowledge, even though systems such as Malt parser~\citep{nivre2007maltparser} provides solutions 
+to multilingual dependency parsing, but they are not optimized for Chinese, and the accuracy on Penn Chinese Treebank is
+typically around 70\% and lower 80\%, which falls behind languages like English and German.
 
 \section{Available Resources}
 
