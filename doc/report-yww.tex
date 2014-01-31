@@ -109,8 +109,19 @@ to multilingual dependency parsing, but they are not optimized for Chinese, and 
 typically around 70\% and lower 80\%, which falls behind languages like English and German.
 
 \section{Available Resources}
+After some research and hands-on experiments on real data, I decided to use the open-source Stanford Word Segmenter\footnote{http://nlp.stanford.edu/software/segmenter.shtml} as the
+segmentation tool. Comparing to other popular Chinese word segmenters, the Stanford segmenter
+is well-maintained, and well-documented. The open-source Chinese lexicon I plan to use
+is also attached in the distribution of Stanford Chinese Segmenter: the Penn Tree Bank lexicon
+and the PKU lexicon. For the Chinese reference grammar, I am currently investigating the 
+Stanford Dependencies\footnote{http://nlp.stanford.edu/software/stanford-dependencies.shtml},
+but I am also open to other suggestions.
 
-%\nascomment{include discussion of resources, including your annotated datasets}
+The test data that I am considering using at this stage: A. a subset of Wang Ling's $\mu$topia Chinese microblog dataset\footnote{http://www.cs.cmu.edu/~lingwang/microtopia/}; B. a subset of the test data from HIT-SCIR's LTP test program\footnote{https://github.com/HIT-SCIR/ltp/blob/master/test\_data/test\_utf8.txt}.
+I chose the above two datasets because they belong to very different genres:
+Wang Ling's data is from Sina Weibo, while the second one is taken from newswire headlines.
+It might be interesting to compare the difficulty in the dependency annotation process,
+as well as parsing results.
 
 \section{Survey of Phenomena in Chinese Dependency Parsing}
 
