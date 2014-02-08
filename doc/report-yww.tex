@@ -124,6 +124,21 @@ It might be interesting to compare the difficulty in the dependency annotation p
 as well as parsing results.
 
 \section{Survey of Phenomena in Chinese Dependency Parsing}
+One notable difference between English and Chinese dependency parsing is the Chinese word segmentation issue,
+while both English and Chinese parser may also suffer from the issue of part-of-speech tagging errors.
+However, despite these issues, there are still some interesting phenomena that mark the differences of the two languages:
+\begin{itemize}
+\item Function words are more frequently used in English than in Chinese.
+For example, when examining Wang Ling's parallel English-Chinese for the total counts of the word ``the'',
+there are 2,084 occurances in 2,003 sentences. Whereas in Chinese, there are only 52 occurances of the word 	``the'' 
+out of the 2,003 sentences.
+\item The other interesting thing is the position of the head. In English, it seems the head of the tree occurs more frequent
+on the left-to-middle of the sentence, while the distribution of the head seems to be more complicated in Chinese.
+This is also verified using the parallel Weibo data.
+\item Another well-known issue in Chinese is that Chinese is a pro-drop language. 
+This is extremely prominent in the short text. For example, in the Chinese Weibo data,
+I have observed the sentence ``(If you) Want to eat Chicken, (you) Have to  bear the sounds of chickens.''.
+\end{itemize}
 
 \section{Initial Design}
 
