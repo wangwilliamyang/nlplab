@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.6.25)  7 FEB 2014 18:23
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.6.25)  14 FEB 2014 23:35
 entering extended mode
 **C:/Users/William/Documents/GitHub/nlplab/doc/report-yww.tex
 (C:/Users/William/Documents/GitHub/nlplab/doc/report-yww.tex
@@ -325,11 +325,11 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 Here is how much of TeX's memory you used:
  4048 strings out of 495285
  57540 string characters out of 3180388
- 129690 words of memory out of 3000000
+ 130690 words of memory out of 3000000
  7171 multiletter control sequences out of 15000+200000
  15975 words of font info for 66 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,11n,43p,399b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,43p,399b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program File
 s/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX
  2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.8/fon
@@ -341,7 +341,7 @@ sfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm
 m Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
 MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2
 .8/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report-yww.pdf (5 pages, 165456 bytes).
+Output written on report-yww.pdf (5 pages, 166531 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
