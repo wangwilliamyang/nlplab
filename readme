@@ -1,0 +1,20 @@
+###########################
+William Wang
+
+ww@cmu.edu 
+
+May 2, 2014
+###########################
+
+To compile ProPPR,
+go to Praprolog and compile using the following command:
+
+ant clean build
+
+###########################
+
+To run experiment on Weibo,
+go to weibo directory:
+
+make testA.run
+make testB.run

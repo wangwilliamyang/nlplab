@@ -1,0 +1,9 @@
+edge,-1,-2 & adjacent,-1,-2 # adj # V1,V2
+edge,-1,-2 & adjacent,-1,-2 & hasword,-1,-3 & hasword,-2,-4 & keyword,-3,-4 # parentword # V1,V2,W1,W2
+edge,-1,-2 & adjacent,-1,-2 & haspos,-1,-3 & haspos,-2,-4 & keypos,-3,-4 # pos # V1,V2,W1,W2
+keyword,-1,-2 # kw,-1,-2 # W1,W2
+keypos,-1,-2 # kp,-1,-2 # W1,W2
+edge,-1,-2 & similar,-1,-3 & edge,-3,-4 & similar,-4,-2 # prop # V1,V2,V3,V4
+similar,-1,-2 & samesent,-1,-2 & hasword,-2,-3 & haswordinverse,-3,-1 # simword # V1,V2,W
+similar,-1,-2 & samesent,-1,-2 & haspos,-2,-3 & hasposinverse,-3,-1 # simpos # V1,V2,W
+similar,-1,-1 # id,'../weibo/weibo1.rules_09' # X

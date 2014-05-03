@@ -1,0 +1,1667 @@
+(ROOT 
+  (IP 
+    (LCP 
+      (NP 
+        (DP (DT 这个) )
+        (NP (NN 世界) ))
+      (LC 上) )
+    (NP 
+      (DNP 
+        (ADJP (JJ 最好) )
+        (DEG 的) )
+      (NP (NN 爱) ))
+    (VP 
+      (ADVP (AD 就) )
+      (VP (VC 是) 
+        (IP 
+          (VP 
+            (VP (VV 让) 
+              (NP 
+                (NP (PN 自己) )
+                (QP (CD 爱的) )
+                (NP (NN 人) ))
+              (IP 
+                (VP (VV 找到) 
+                  (NP 
+                    (DNP 
+                      (NP (PN 他) )
+                      (DEG 的) )
+                    (NP (NN 爱) (NN 朋友们) )))))
+            (VP (VA 晚安) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (PN 我) )
+    (VP 
+      (ADVP (AD 总是) )
+      (ADVP (AD 在) )
+      (VP (VV 担心) 
+        (IP 
+          (VP (VV 会) 
+            (VP (VV 失去) 
+              (FLR (PN 谁) )
+              (CP 
+                (IP 
+                  (ADVP (AD 有时) )
+                  (NP (PN 我) )
+                  (VP 
+                    (ADVP (AD 在) )
+                    (VP (VV 想) 
+                      (IP 
+                        (VP 
+                          (VNV (VV 会) (AD 不) (VV 会) )
+                          (VP (VE 有) 
+                            (IP 
+                              (ADVP (AD 那么) )
+                              (NP 
+                                (QP (CD 一) 
+                                  (CLP (M 个) ))
+                                (NP (NN 人) ))
+                              (VP 
+                                (PP (P 在) 
+                                  (NP (NN 担心) ))
+                                (VP (VV 失去) 
+                                  (NP (PN 我) ))))))))))
+                (SP 呢) ))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (NN 教育) )
+    (VP 
+      (ADVP (AD 显然) )
+      (VP (VE 有) 
+        (IP 
+          (QP 
+            (QP (CD 两) 
+              (CLP (M 种) ))
+            (QP (CD 一) 
+              (CLP (M 种) )))
+          (VP 
+            (VP (VC 是) 
+              (VP 
+                (VPT (VV 教人) (AD 怎样) (VV 谋生) )
+                (DP (DT 另) 
+                  (QP (CD 一) 
+                    (CLP (M 种) )))))
+            (VP 
+              (VP (VC 是) 
+                (VP (VV 教人) 
+                  (NP 
+                    (ADJP (JJ 怎样) )
+                    (NP (NN 生活) ))))
+              (VP (VV 查看) 
+                (NP (NN 原文) )))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (CP 
+        (IP 
+          (NP 
+            (DNP 
+              (NP (PN 你) )
+              (DEG 的) )
+            (NP (NT 过去) ))
+          (VP 
+            (ADVP (AD 不) )
+            (VP 
+              (VCD (VA 重要) (VA 重要) ))))
+        (DEC 的) ))
+    (VP (VC 是) 
+      (NP 
+        (DNP 
+          (NP (PN 你) )
+          (DEG 的) )
+        (NP (NN 未来) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP 
+        (ADJP (JJ 错的) )
+        (NP (NN 路) ))
+      (VP 
+        (ADVP (AD 也) )
+        (ADVP (AD 不) )
+        (VP (VV 好走) 
+          (FLR (IJ 哦) )
+          (IP 
+            (VP (VA 对的) )))))
+    (IP 
+      (NP 
+        (DP (DT 那) 
+          (CLP (M 条) ))
+        (NP (NN 路) ))
+      (VP 
+        (ADVP (AD 往往) )
+        (ADVP (AD 不) )
+        (VP (VC 是) 
+          (NP 
+            (ADJP (JJ 最好) )
+            (NP (NN 走的) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (CP 
+        (IP 
+          (VP (VV 转发) 
+            (VP 
+              (ADVP (AD 微) )
+              (LCP 
+                (NP (NN 博) (NN 世界) )
+                (LC 上) )
+              (ADVP (AD 最) )
+              (VP (VA 美妙) ))))
+        (DEC 的) )
+      (QP (CD 一) 
+        (CLP (M 件) ))
+      (NP (NN 事) ))
+    (VP (VC 是) 
+      (IP 
+        (PP (P 当) 
+          (IP 
+            (NP (PN 你) )
+            (VP (VV 拥抱) 
+              (NP 
+                (QP (CD 一) 
+                  (CLP (M 个) ))
+                (NP (PN 你) )
+                (ADJP (JJ 爱的) )
+                (NP (NN 人) )))))
+        (NP (PN 他) )
+        (VP 
+          (ADVP (AD 竟然) )
+          (VP (BA 把) 
+            (IP 
+              (NP (PN 你) )
+              (VP (VV 抱) (DER 得) 
+                (VP (VV 更紧) )))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP (PN 我) (NN 父亲) )
+      (VP 
+        (ADVP (AD 总是) )
+        (VP (VV 说) 
+          (IP 
+            (NP 
+              (QP (CD 一) 
+                (CLP (M 个) ))
+              (NP (NN 孩子) ))
+            (VP (VV 需要) 
+              (NP 
+                (QP (CD 四) 
+                  (CLP (M 样) ))
+                (NP (NN 东西) )))))))
+    (IP 
+      (NP 
+        (CP 
+          (IP 
+            (NP 
+              (DNP 
+                (ADJP (JJ 充分) )
+                (DEG 的) )
+              (NP (NN 爱) ))
+            (VP (VV 富于) 
+              (NP (NN 营养) )))
+          (DEC 的) )
+        (NP (NN 食物) ))
+      (VP (VE 有) 
+        (NP 
+          (DNP 
+            (NP (NN 规律) )
+            (DEG 的) )
+          (NP (NN 睡眠) ))))
+    (IP 
+      (NP 
+        (NP 
+          (DNP 
+            (QP (CD 大量) )
+            (DEG 的) )
+          (NP (NN 肥皂) ))
+        (CC 和) 
+        (NP (NN 水) ))
+      (VP (VV 晚安) 
+        (NP (NN 关注) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (NN 生活) )
+    (VP 
+      (VP (VC 是) 
+        (IP 
+          (NP 
+            (QP (CD 一) 
+              (CLP (M 场) ))
+            (CP 
+              (IP 
+                (VP (VA 漫长) ))
+              (DEC 的) )
+            (NP (NN 旅行) ))
+          (VP 
+            (ADVP (AD 不) )
+            (VP (VV 要) 
+              (VP (VV 浪费) 
+                (NP (NN 时间) ))))))
+      (VP (MSP 去) 
+        (VP (VV 等待) 
+          (NP 
+            (DP (DT 那些) )
+            (CP 
+              (IP 
+                (VP 
+                  (ADVP (AD 不) )
+                  (VP (VV 愿) 
+                    (VP 
+                      (PP (P 与) 
+                        (NP (PN 你) ))
+                      (VP (VV 携手) 
+                        (NP (NN 同行) ))))))
+              (DEC 的) )
+            (NP (NN 人) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (CP 
+        (IP 
+          (NP 
+            (DP (DT 每) 
+              (CLP (M 个) ))
+            (NP (NN 人) ))
+          (VP (VV 需要) ))
+        (DEC 的) ))
+    (VP 
+      (ADVP (AD 仅仅) )
+      (VP (VC 是) 
+        (NP 
+          (CP 
+            (IP 
+              (VP 
+                (ADVP (AD 一点点) )
+                (VP (VV 爱) 
+                  (NP 
+                    (DNP 
+                      (ADJP (JJ 大大) )
+                      (DEG 的) )
+                    (NP (NN 希望) (CC 和) (NN 不可动摇) )))))
+            (DEC 的) )
+          (NP (NN 信念) ))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (CP 
+      (ADVP (CS 虽然) )
+      (IP 
+        (NP (PN 这) )
+        (VP (VC 是) 
+          (NP 
+            (QP (CD 一) 
+              (CLP (M 项) ))
+            (CP 
+              (IP 
+                (VP (VV 令) 
+                  (NP (NN 人) )
+                  (IP 
+                    (VP (VV 劳累) ))))
+              (DEC 的) )
+            (NP (NN 工作) )))))
+    (ADVP (AD 但是) )
+    (NP (PN 我们) )
+    (VP (VV 觉得) 
+      (IP 
+        (VP 
+          (PP (P 为) 
+            (NP 
+              (DNP 
+                (NP (NN 世界) (NN 各地) )
+                (DEG 的) )
+              (ADJP (JJ 残疾) )
+              (NP (NN 朋友) )))
+          (VP (VV 服务) 
+            (NP 
+              (CP 
+                (IP 
+                  (VP (VC 是) 
+                    (NP (NN 无尚) (NN 荣耀) )))
+                (DEC 的) )
+              (NP (NN 事情) ))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (CP 
+        (IP 
+          (NP (NN 青春) )
+          (VP 
+            (ADVP (AD 沿途) )
+            (ADVP (AD 再) )
+            (VP (VA 美) )))
+        (DEC 的) )
+      (NP (NN 风景) ))
+    (VP 
+      (ADVP (AD 也) )
+      (ADVP (AD 只) )
+      (ADVP (AD 不过) )
+      (VP (VC 是) 
+        (NP 
+          (QP (CD 一) 
+            (CLP (M 纸) ))
+          (NP (NN 风华) ))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP (VE 有) 
+        (NP (NN 時候) )))
+    (CP 
+      (IP 
+        (NP (PN 你) )
+        (FLR (CD 給別) (NN 人) )
+        (NP 
+          (DNP 
+            (ADJP 
+              (ADVP (AD 最) )
+              (ADJP (JJ 簡單) ))
+            (DEG 的) )
+          (NP (NN 建議) (NN 卻是) ))
+        (NP (PN 自己) )
+        (VP 
+          (ADVP (AD 最) )
+          (ADVP (AD 難) )
+          (VP (VV 做到) )))
+      (SP 的) )
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP 
+        (DNP 
+          (QP (CD 三分之二) )
+          (DEG 的) )
+        (NP (NN 争执) ))
+      (VP 
+        (VP (VV 源于) 
+          (NP (NN 男性) ))
+        (VP (VV 觉得) 
+          (IP 
+            (NP (NN 温度) )
+            (VP 
+              (ADVP (AD 过) )
+              (VP (VA 高) ))))))
+    (IP 
+      (ADVP (AD 而) )
+      (NP (NN 女性) )
+      (VP (VV 觉得) 
+        (IP 
+          (VP (VA 冷) ))))
+    (IP 
+      (NP 
+        (QP 
+          (ADVP (AD 超过) )
+          (QP (CD 一半) ))
+        (NP (NN 人) ))
+      (VP (VV 认为) 
+        (IP 
+          (NP (NN 家里) (NN 太热) )
+          (VP 
+            (ADVP (AD 无法) )
+            (VP (VV 入睡) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP 
+        (PP (P 当) 
+          (NP (NN 生活) ))
+        (VP (VV 变得) 
+          (IP 
+            (VP 
+              (ADVP (AD 更) )
+              (VP (VA 艰难) ))))))
+    (IP 
+      (NP (PN 你) )
+      (VP 
+        (ADVP (AD 也) )
+        (VP (VV 可以) 
+          (VP (BA 把) 
+            (IP 
+              (NP (PN 自己) )
+              (VP (VV 变得) 
+                (IP 
+                  (VP 
+                    (ADVP (AD 更) )
+                    (VP (VA 强大) )))))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP (VV 谢谢) 
+        (NP (PN 你) )
+        (IP 
+          (VP 
+            (ADVP (AD 曾经) )
+            (VP (VV 来) (AS 过) 
+              (NP (NN 很遗憾) ))))))
+    (IP 
+      (NP (PN 你) )
+      (VP 
+        (ADVP (AD 还是) )
+        (VP (VV 走开) (AS 了) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (ADVP (AD 为什么) )
+      (NP (PN 我) )
+      (VP 
+        (ADVP (AD 还是) )
+        (DVP 
+          (ADVP (AD 如此) )
+          (DEV 的) )
+        (VP (VV 担心) 
+          (IP 
+            (VP (VV 失去) 
+              (NP (PN 你) ))))))
+    (CP 
+      (ADVP (CS 即使) )
+      (IP 
+        (NP (PN 你) )
+        (VP 
+          (ADVP (AD 都) )
+          (ADVP (AD 已经) )
+          (ADVP (AD 不) )
+          (VP (VC 是) 
+            (DNP 
+              (NP (PN 我) )
+              (DEG 的) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (PN 我) )
+    (VP 
+      (VP 
+        (ADVP (AD 之所以) )
+        (VP (VV 懂得) 
+          (NP (NN 爱) )))
+      (VP 
+        (ADVP (AD 都) )
+        (VP (VC 是) 
+          (PP (P 因为) 
+            (NP (PN 你) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (CP 
+        (IP 
+          (VP 
+            (VP (VV 转发) 
+              (NP 
+                (NP 
+                  (ADJP (JJ 微) )
+                  (NP (NN 博) ))
+                (DP (DT 有些) )
+                (NP (NN 人) )))
+            (VP (VV 不用) 
+              (NP 
+                (NP 
+                  (DP (DT 任何) )
+                  (NP (NN 动作) ))
+                (CC 和) 
+                (NP 
+                  (NP (NN 表情) )
+                  (ADVP (AD 仅仅) ))))))
+        (DEC 的) )
+      (NP (NN 存在) ))
+    (VP 
+      (ADVP (AD 就) )
+      (VP (VV 足以) 
+        (IP 
+          (VP (VV 打动) 
+            (NP 
+              (DP (DT 这个) )
+              (NP (NN 世界) ))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP (NN 钱) )
+      (VP 
+        (ADVP (AD 无法) )
+        (VP (VV 买到) )))
+    (IP 
+      (CP 
+        (IP 
+          (NP (PN 一切) )
+          (VP 
+            (ADVP (AD 但) )
+            (VP (VA 有钱) )))
+        (SP 了) )
+      (NP (PN 一切) )
+      (VP (VV 会) 
+        (VP (VA 容易) (DER 得) 
+          (ADVP (AD 多) ))))
+    (PU 。) ))
+(ROOT 
+  (CP 
+    (IP 
+      (VP 
+        (ADVP (AD 总是) )
+        (VP (VV 听从) 
+          (NP 
+            (DNP 
+              (NP (NN 内心) )
+              (DEG 的) )
+            (NP (NN 声音) ))
+          (PP (P 因为) 
+            (IP 
+              (CP 
+                (ADVP (CS 即便) )
+                (IP 
+                  (NP (PN 它) )
+                  (VP (VV 长在) 
+                    (NP 
+                      (DNP 
+                        (NP (PN 你) )
+                        (DEG 的) )
+                      (NP (NN 左边) )))))
+              (IP 
+                (NP (PN 它) )
+                (VP 
+                  (ADVP (AD 却) )
+                  (ADVP (AD 总是) )
+                  (VP (VA 对) ))))))))
+    (SP 的) (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (PN 我) )
+    (VP (VV 想) 
+      (IP 
+        (VP (VV 知道) 
+          (IP 
+            (ADVP (AD 为什么) )
+            (NP 
+              (ADJP (JJ 微) )
+              (NP (NN 博) ))
+            (VP (VV 阻止) 
+              (NP (PN 我们) )
+              (IP 
+                (VP (VV 张贴) 
+                  (NP 
+                    (NP (NN 评论) )
+                    (QP (CD 几) 
+                      (CLP (M 天) ))
+                    (CP 
+                      (IP 
+                        (NP (PN 我们) )
+                        (VP 
+                          (ADVP (AD 仍然) )
+                          (VP (VV 可以) 
+                            (VP (VV 在) 
+                              (NP (NN 集团) )))))
+                      (DEC 的) )
+                    (NP (NN 区域) )))))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (ADVP (AD 有一天) )
+      (NP 
+        (DP (DT 那个) )
+        (NP (NN 人) ))
+      (VP (VV 走进) (AS 了) 
+        (NP 
+          (DNP 
+            (NP (PN 你) )
+            (DEG 的) )
+          (NP (NN 生命) ))))
+    (IP 
+      (NP (PN 你) )
+      (VP 
+        (ADVP (AD 就) )
+        (VP (VV 会) 
+          (VP (VV 明白) 
+            (CP 
+              (IP 
+                (NP (NN 真爱) )
+                (VP 
+                  (ADVP (AD 总是) )
+                  (VP (VV 值得) 
+                    (IP 
+                      (VP (VV 等待) )))))
+              (SP 的) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (QP (CD 绝大部分) )
+      (CP 
+        (IP 
+          (NP (PN 你) )
+          (VP (MSP 所) 
+            (VP (VV 担心) )))
+        (DEC 的) )
+      (NP (NN 事情) ))
+    (VP 
+      (ADVP (AD 都) )
+      (VP (VC 是) 
+        (NP 
+          (CP 
+            (IP 
+              (VP 
+                (ADVP (AD 没有) )
+                (VP (VV 发生) )))
+            (DEC 的) ))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (ADVP (AD 连) )
+      (NP (NN 幸福) ))
+    (VP (VC 是) 
+      (IP 
+        (NP (PN 什么) )
+        (VP 
+          (ADVP (AD 都) )
+          (ADVP (AD 不) )
+          (VP (VV 知道) 
+            (IP 
+              (NP (PN 你) )
+              (VP 
+                (PP (P 拿) 
+                  (NP (PN 什么) ))
+                (PP (P 给) 
+                  (NP (NN 别人) ))
+                (VP (VA 幸福) )))))))
+    (PU 。) ))
+(ROOT 
+  (CP 
+    (CP 
+      (IP 
+        (NP (PN 你) )
+        (VP (VV 见) (AS 过) 
+          (NP 
+            (ADJP (JJ 这样) )
+            (NP (NN 自娱自乐) ))))
+      (SP 的) )
+    (SP 吗) (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP (NN 太多) (NN 时候) )
+      (NP (PN 我们) )
+      (VP 
+        (ADVP (AD 之所以) )
+        (VP (VV 原谅) 
+          (NP 
+            (QP (CD 一) 
+              (CLP (M 个) ))
+            (NP (NN 人) ))
+          (PP 
+            (ADVP (AD 只是) )
+            (PP (P 因为) 
+              (IP 
+                (NP (PN 我们) )
+                (VP 
+                  (ADVP (AD 不) )
+                  (VP (VV 想) 
+                    (IP 
+                      (VP (VV 失去) 
+                        (NP (PN 他) )))))))))))
+    (CP 
+      (ADVP (CS 尽管) )
+      (IP 
+        (NP (PN 他) )
+        (VP 
+          (ADVP (AD 并不) )
+          (VP (VV 值得) 
+            (NP (NN 宽恕) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (VP 
+      (ADVP (AD 不知) )
+      (PP (P 从) 
+        (LCP 
+          (NP 
+            (DP (DT 什么) )
+            (NP (NN 时候) ))
+          (LC 开始) ))
+      (FLR (PN 我) )
+      (VP (VV 变得) 
+        (IP 
+          (ADVP (AD 连) )
+          (NP (PN 自己) )
+          (VP 
+            (ADVP (AD 都) )
+            (VP (VV 感到) 
+              (IP 
+                (VP (VA 陌生) )))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (DNP 
+        (NP 
+          (ADJP (JJ 坏) )
+          (NP (NN 记性) ))
+        (DEG 的) )
+      (NP (NN 好处) ))
+    (VP (VV 在于) 
+      (IP 
+        (VP (VV 可以) 
+          (VP 
+            (QP (CD 多) 
+              (CLP (M 次) ))
+            (DVP 
+              (VP 
+                (PP (P 如同) 
+                  (QP (OD 第一) 
+                    (CLP (M 次) )))
+                (VP (VA 般) ))
+              (DEV 的) )
+            (VP (VV 享受) 
+              (NP 
+                (CP 
+                  (IP 
+                    (VP 
+                      (PP (P 到) 
+                        (NP 
+                          (DP (DT 同) 
+                            (QP (CD 一) 
+                              (CLP (M 个) )))
+                          (ADJP (JJ 美好) )
+                          (NP (NN 事物) )))
+                      (VP (VV 带来) )))
+                  (DEC 的) )
+                (NP (NN 欢乐) )))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (NN 方向) (NN 错了) )
+    (VP 
+      (ADVP (AD 再) )
+      (ADVP (AD 怎么) )
+      (ADVP (AD 努力) )
+      (ADVP (AD 都) )
+      (ADVP (AD 不) )
+      (VP (VV 会) 
+        (VP (VV 达到) 
+          (NP (NN 目) ))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP 
+        (VP (VV 喜欢) 
+          (NP 
+            (CP 
+              (IP 
+                (NP (PN 你) )
+                (VP (VV 过) ))
+              (DEC 的) )
+            (NP (NN 生活) )))
+        (VP (VV 过) 
+          (NP 
+            (CP 
+              (IP 
+                (NP (PN 你) )
+                (VP (VV 喜欢) ))
+              (DEC 的) )
+            (NP (NN 生活) )))))
+    (IP 
+      (NP (PN 我) )
+      (VP (VV 在) ))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP 
+        (DP (DT 每个) )
+        (NP (NN 人) ))
+      (VP 
+        (ADVP (AD 都) )
+        (VP (VV 生活) 
+          (PP (P 在) 
+            (LCP 
+              (IP 
+                (NP (PN 各自) )
+                (VP (VV 过去) ))
+              (LC 中) )))))
+    (IP 
+      (NP (PN 我们) )
+      (VP 
+        (VP 
+          (VP 
+            (VP (VV 用) 
+              (QP (CD 一分钟) ))
+            (VP (VV 去) ))
+          (VP (VV 认识) 
+            (NP 
+              (QP (CD 一) 
+                (CLP (M 个) ))
+              (NP (NN 人) )))
+          (VP (VV 用) 
+            (QP (CD 一小时) ))
+          (VP (VV 去) )
+          (VP (VV 喜欢) 
+            (IP 
+              (NP 
+                (QP (CD 一) 
+                  (CLP (M 个) ))
+                (NP (NN 人) ))
+              (VP 
+                (ADVP (AD 再) )
+                (VP (VV 用) 
+                  (QP (CD 一) 
+                    (CLP (M 天) ))))))
+          (VP (VV 去) 
+            (VP (VV 爱上) 
+              (NP 
+                (QP (CD 一) 
+                  (CLP (M 个) ))
+                (NP (NN 人) ))))
+          (VP (VV 到) )
+          (VP 
+            (ADVP (AD 最后) )
+            (ADVP (AD 却) )
+            (VP (VV 用) )))
+        (VP 
+          (ADVP (AD 一辈子) )
+          (VP (VV 去) 
+            (VP (VV 忘记) 
+              (NP 
+                (QP (CD 一) 
+                  (CLP (M 个) ))
+                (NP (NN 人) )))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (VP 
+      (VP (VV 能) 
+        (VP (VV 发现) 
+          (IP 
+            (NP 
+              (DNP 
+                (NP (PN 自己) )
+                (DEG 的) )
+              (NP (NN 错误) ))
+            (VP (VC 是) 
+              (NP (NN 智慧) )))))
+      (VP 
+        (VP (VV 能) 
+          (VP (VV 改正) 
+            (NP 
+              (DNP 
+                (NP (PN 自己) )
+                (DEG 的) )
+              (NP (NN 错误) ))))
+        (VP (VC 是) 
+          (VP (VA 勇敢) ))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP (NT 未来) )
+      (VP (VC 是) 
+        (NP 
+          (QP 
+            (ADVP (AD 这样) )
+            (QP (CD 一) 
+              (CLP (M 件) )))
+          (NP (NN 东西) ))))
+    (IP 
+      (NP 
+        (DP (DT 每个) )
+        (NP (NN 人) ))
+      (VP 
+        (ADVP (AD 都) )
+        (PP (P 以) 
+          (NP 
+            (DNP 
+              (QP 
+                (DP (DT 每) 
+                  (CLP (M 小时) ))
+                (QP (CD 六十) 
+                  (CLP (M 分钟) )))
+              (DEG 的) )
+            (NP (NN 速度) )))
+        (PP (P 朝) 
+          (NP (PN 它) ))
+        (VP (VV 走去) )))
+    (CP 
+      (ADVP (CS 不管) )
+      (IP 
+        (NP (PN 他) )
+        (VP (VV 做) 
+          (NP (PN 什么) ))))
+    (IP 
+      (VP 
+        (ADVP (AD 也) )
+        (ADVP (AD 不) )
+        (ADVP (AD 管他) )
+        (VP (VC 是) 
+          (NP (PN 谁) ))))
+    (PU 。) ))
+(ROOT 
+  (CP 
+    (IP 
+      (NP (PN 我) )
+      (VP 
+        (ADVP (AD 也) )
+        (VP 
+          (VPT (VV 说) (AD 不) (VV 出) )
+          (NP 
+            (DP (DT 任何) )
+            (NP (NN 话) )))))
+    (SP 了) (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP (VV 转发) 
+        (NP 
+          (ADJP (JJ 微) )
+          (NP (NN 博) (NN 英语) (NN 围脖) ))))
+    (IP 
+      (NP (NN 钱) )
+      (VP 
+        (ADVP (AD 无法) )
+        (VP (VV 买到) 
+          (CP 
+            (IP 
+              (NP (PN 一切) )
+              (VP 
+                (ADVP (AD 但) )
+                (VP (VA 有钱) )))
+            (SP 了) ))))
+    (IP 
+      (NP (PN 一切) )
+      (VP (VV 会) 
+        (VP (VA 容易) (DER 得) 
+          (VP (VA 多) ))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (NN 微笑) )
+    (VP (VC 是) 
+      (NP 
+        (CP 
+          (IP 
+            (VP (VV 改善) 
+              (NP (NN 容貌) )))
+          (DEC 的) )
+        (QP (CD 一) 
+          (CLP (M 种) ))
+        (CP 
+          (IP 
+            (VP 
+              (ADVP (AD 并不) )
+              (VP (VA 昂贵) )))
+          (DEC 的) )
+        (NP (NN 方式) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (VP 
+      (VP 
+        (ADVP (AD 总) )
+        (VP (VE 有) 
+          (QP (CD 一) 
+            (CLP (M 天) ))))
+      (VP 
+        (ADVP (AD 总) )
+        (VP (VE 有) 
+          (IP 
+            (NP 
+              (QP (CD 一) 
+                (CLP (M 个) ))
+              (NP (NN 人) ))
+            (VP (VV 会) 
+              (VP (VV 来到) 
+                (NP 
+                  (DNP 
+                    (NP (PN 你) )
+                    (DEG 的) )
+                  (NP (NN 生命) )))))))
+      (CC 并) 
+      (VP 
+        (PP (P 像) 
+          (NP 
+            (CP 
+              (IP 
+                (NP (PN 你) )
+                (VP 
+                  (ADVP (AD 一直) )
+                  (VP (VV 梦想) )))
+              (DEC 的) )
+            (NP (PN 那样) )))
+        (VP (MSP 来) 
+          (VP (VV 爱) 
+            (IP 
+              (NP (PN 你) )
+              (NP (PN 我) )
+              (VP (VV 在) ))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (ADVP (AD 有时候) )
+    (NP (PN 你) )
+    (VP 
+      (VP (VV 选择) 
+        (IP 
+          (VP 
+            (PP (P 与) 
+              (NP (PN 某人) ))
+            (VP (VV 保持) 
+              (NP (NN 距离) )))))
+      (VP 
+        (ADVP (AD 不) )
+        (VP (VC 是) 
+          (PP (P 因为) 
+            (IP 
+              (NP (NN 不在乎) )
+              (VP 
+                (ADVP (AD 而) )
+                (VP (VC 是) 
+                  (PP (P 因为) 
+                    (IP 
+                      (NP (PN 你) )
+                      (VP 
+                        (DVP 
+                          (VP (VA 清楚) )
+                          (DEV 的) )
+                        (VP (VV 知道) 
+                          (IP 
+                            (NP (PN 他) )
+                            (VP 
+                              (ADVP (AD 不) )
+                              (VP (VV 属于) 
+                                (NP (PN 你) )))))))))))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP (VV 喜欢) 
+        (NP 
+          (QP (CD 一) 
+            (CLP (M 个) ))
+          (NP (NN 人) ))))
+    (VP (VC 是) 
+      (NP (NN 宿命) ))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (ADJP (JJ 如下) )
+      (NP (NN 图) ))
+    (VP 
+      (VP (MSP 所) 
+        (VP (VV 示) 
+          (NP 
+            (DNP 
+              (NP (NR 中国) )
+              (DEG 的) )
+            (NP (NN 消费) (NN 增长) ))))
+      (VP 
+        (VP (VC 是) 
+          (VP 
+            (PP (P 在) 
+              (NP 
+                (NP (NN 世界) )
+                (ADJP (JJ 主要) )
+                (NP (NN 经济) (NN 体中) )))
+            (VP (VV 增长) 
+              (NP 
+                (DNP 
+                  (LCP 
+                    (IP 
+                      (NP 
+                        (DNP 
+                          (ADJP 
+                            (ADVP (AD 最) )
+                            (ADJP (JJ 快) ))
+                          (DEG 的) )
+                        (ADJP (JJ 年) )
+                        (NP (NN 增长率) ))
+                      (VP (VC 是) 
+                        (NP 
+                          (QP (CD 7.3%) )
+                          (ADVP (AD 如) )
+                          (QP (CD 一些) )
+                          (CP 
+                            (IP 
+                              (NP (NN 人) )
+                              (VP 
+                                (PP (P 在) 
+                                  (NP 
+                                    (NP 
+                                      (DNP 
+                                        (LCP 
+                                          (NP 
+                                            (NP (PN 我) )
+                                            (ADJP (JJ 微) )
+                                            (NP (NN 博) ))
+                                          (LC 上) )
+                                        (DEG 的) )
+                                      (NP (NN 评论) ))
+                                    (CC 或者) 
+                                    (NP 
+                                      (NP 
+                                        (DP (DT 有些) )
+                                        (NP (NN 报纸) ))
+                                      (NP (NN 文章) ))))
+                                (VP (MSP 所) 
+                                  (VP (VV 称) ))))
+                            (DEC 的) )
+                          (ADJP (JJ 那样) )
+                          (NP (NN 混淆) (NN GDP) ))))
+                    (LC 中) )
+                  (DEG 的) )
+                (NP (NN 消费) (NN 比率) )))))
+        (VP (VC 是) 
+          (NP 
+            (DNP 
+              (ADJP 
+                (ADVP (AD 很) )
+                (ADJP (JJ 低级) ))
+              (DEG 的) )
+            (NP (NN 经济) (NN 错误) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (CP 
+        (IP 
+          (NP 
+            (DNP 
+              (NP (NT 过去) )
+              (DEG 的) )
+            (NP (NN 已是) ))
+          (VP 
+            (ADVP (AD 曾经) )
+            (IP 
+              (VP 
+                (NP (NT 未来) )
+                (ADVP (AD 还) )
+                (ADVP (AD 没有) )
+                (VP (VV 到来) )))
+            (ADVP (AD 最) )
+            (VP (VA 重要) )))
+        (DEC 的) ))
+    (VP 
+      (ADVP (AD 则) )
+      (VP (VC 是) 
+        (NP (NT 现在) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (DNP 
+        (NP 
+          (QP (CD 一) 
+            (CLP (M 个) ))
+          (NP (NN 人) ))
+        (DEG 的) )
+      (NP (NN 快乐) ))
+    (VP 
+      (ADVP (AD 不) )
+      (VP (VC 是) 
+        (PP (P 因为) 
+          (IP 
+            (NP 
+              (CP 
+                (IP 
+                  (NP (PN 他) )
+                  (VP (VV 拥有) ))
+                (DEC 的) ))
+            (VP 
+              (ADVP (AD 多) )
+              (ADVP (AD 而) )
+              (VP (VC 是) 
+                (PP (P 因为) 
+                  (IP 
+                    (NP 
+                      (CP 
+                        (IP 
+                          (NP (PN 他) )
+                          (VP (VV 计较) ))
+                        (DEC 的) ))
+                    (VP 
+                      (VCD (VA 少) (VA 晚安) ))))))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP (PN 你) )
+    (VP 
+      (VP 
+        (ADVP (AD 已经) )
+        (VP (VV 走) (AS 了) ))
+      (VP 
+        (ADVP (AD 这么) )
+        (ADVP (AD 远) )
+        (ADVP (AD 不要) )
+        (NP (NT 现在) )
+        (VP (VV 放弃) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (VP 
+      (VP (VV 要) 
+        (VP (VV 实现) 
+          (NP (NN 梦想) )))
+      (VP 
+        (ADVP (AD 最好) )
+        (ADVP (AD 先) )
+        (VP (VV 醒来) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP (VE 没有) 
+        (IP 
+          (NP (NN 人) )
+          (VP (VV 能够) 
+            (VP (VV 回头) 
+              (IP 
+                (VP 
+                  (ADVP (AD 从新) )
+                  (VP (VV 来过) ))))))))
+    (IP 
+      (ADVP (AD 但) )
+      (NP (PN 谁) )
+      (VP 
+        (ADVP (AD 都) )
+        (VP (VE 有) 
+          (IP 
+            (PP (P 从) 
+              (LCP 
+                (NP (NT 现在) )
+                (LC 起) ))
+            (VP (VV 书写) 
+              (NP 
+                (QP (CD 一) 
+                  (CLP (M 个) ))
+                (DNP 
+                  (ADJP (JJ 不同) )
+                  (DEG 的) )
+                (NP (NN 结局) )))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (DNP 
+        (NP (NN 生活) )
+        (DEG 的) )
+      (NP (NN 意义) ))
+    (VP (VV 应该) 
+      (VP 
+        (PP (P 像) 
+          (NP (NN 种树) ))
+        (FLR (PN 你) )
+        (ADVP (AD 并没有) )
+        (VP (VV 期望) 
+          (IP 
+            (VP 
+              (VP (VE 有) 
+                (QP (CD 一) 
+                  (CLP (M 天) )))
+              (VP 
+                (VP (VV 能) 
+                  (VP (VV 坐在) 
+                    (LCP 
+                      (NP (NN 树荫) )
+                      (LC 下) )))
+                (VP (VV 享受) 
+                  (NP 
+                    (CP 
+                      (IP 
+                        (NP (PN 它) )
+                        (VP (VV 带来) ))
+                      (DEC 的) )
+                    (NP (NN 阴凉) )))))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP 
+        (ADVP (AD 这么) )
+        (VP (VV 早起) )))
+    (NP (PN 我) )
+    (VP 
+      (ADVP (AD 都) )
+      (ADVP (AD 不) )
+      (VP (VC 是) 
+        (NP (NN 我了) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (NP 
+        (DP (DT 每) 
+          (CLP (M 天) ))
+        (NP (NN 吃) ))
+      (QP (CD 一) 
+        (CLP (M 颗) ))
+      (NP (NN 糖) ))
+    (VP 
+      (ADVP (AD 然后) )
+      (VP (VV 告诉) 
+        (NP (PN 自己) )
+        (IP 
+          (NP 
+            (DNP 
+              (NP (NT 今天) )
+              (DEG 的) )
+            (NP (NN 日子) ))
+          (VP 
+            (ADVP (AD 果然) )
+            (ADVP (AD 又) )
+            (VP (VC 是) 
+              (NP (NN 甜的) ))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP (NN 距离) )
+      (VP (VV 会) 
+        (VP (VV 让) 
+          (NP (PN 你) )
+          (IP 
+            (VP (VV 遗忘) 
+              (NP 
+                (DP (DT 那些) )
+                (NP (NN 人) )))))))
+    (IP 
+      (ADVP (AD 但是) )
+      (NP 
+        (DNP 
+          (PP (P 关于) 
+            (NP (PN 他们) ))
+          (DEG 的) )
+        (NP (NN 记忆) ))
+      (VP 
+        (ADVP (AD 却) )
+        (ADVP (AD 永远) )
+        (ADVP (AD 都) )
+        (VP (VV 会) 
+          (VP (VV 在) 
+            (NP (PN 那里) )))))
+    (IP 
+      (NP (PN 我) )
+      (VP (VV 在) ))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (PP (P 在) 
+        (LCP 
+          (NP (NN 某种) (NN 意义) )
+          (LC 上) ))
+      (NP 
+        (DNP 
+          (LCP 
+            (NP (NN 生活) )
+            (LC 中) )
+          (DEG 的) )
+        (ADJP 
+          (ADVP (AD 最) )
+          (ADJP (JJ 重要) ))
+        (NP (NN 问题) ))
+      (VP 
+        (ADVP (AD 都) )
+        (VP (VC 是) 
+          (NP 
+            (CP 
+              (IP 
+                (VP 
+                  (ADVP (AD 无法) )
+                  (VP (VV 解决) )))
+              (DEC 的) )))))
+    (IP 
+      (NP (PN 我们) )
+      (VP 
+        (ADVP (AD 无法) )
+        (VP (VV 解决) )))
+    (IP 
+      (NP (PN 它们) )
+      (VP 
+        (ADVP (AD 只) )
+        (VP (VV 能) 
+          (VP 
+            (PP (P 在) 
+              (LCP 
+                (NP (NN 成长) )
+                (LC 中) ))
+            (VP (VV 超越) 
+              (NP 
+                (NP (PN 它们) )
+                (NP (NN 心) (NN 衣) (NN 宝贝) )))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (ADVP (AD 下次) )
+    (NP 
+      (CP 
+        (IP 
+          (VP (VV 回想) 
+            (NP 
+              (ADJP (JJ 美好) )
+              (NP (NN 事物) ))))
+        (DEC 的) )
+      (NP (NN 时候) ))
+    (VP 
+      (ADVP (AD 不要) )
+      (ADVP (AD 忘了) )
+      (VP (BA 把) 
+        (IP 
+          (NP (PN 自己) )
+          (VP 
+            (ADVP (AD 也) )
+            (VP (VV 算进) 
+              (NP (NN 去哦) ))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (VP 
+        (ADVP (AD 别) )
+        (VP (VV 在意) 
+          (NP 
+            (DP (DT 那些) )
+            (CP 
+              (IP 
+                (VP 
+                  (PP (P 在) 
+                    (NP (PN 你) (NN 背后) ))
+                  (VP (VV 说三道四) )))
+              (DEC 的) )
+            (NP (NN 人) )))))
+    (NP (PN 那) )
+    (VP 
+      (ADVP (AD 只不过) )
+      (VP (VV 说明) 
+        (IP 
+          (NP (PN 你) )
+          (VP (VV 走在) (AS 了) 
+            (NP 
+              (DNP 
+                (NP (PN 他们) )
+                (DEG 的) )
+              (NP (NN 前面) ))))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (IP 
+      (NP (PN 你) )
+      (VP (VV 梦想) 
+        (IP 
+          (VP (VV 成为) 
+            (NP 
+              (DNP 
+                (DP (DT 什么) 
+                  (CLP (M 样) ))
+                (DEG 的) )
+              (NP (NN 人) ))))))
+    (IP 
+      (NP (PN 你) )
+      (VP 
+        (ADVP (AD 就) )
+        (VP (VV 能) 
+          (VP (VV 成为) 
+            (NP 
+              (DNP 
+                (DP (DT 什么) 
+                  (CLP (M 样) ))
+                (DEG 的) )
+              (NP (NN 人) ))))))
+    (IP 
+      (NP (PN 你) )
+      (NP 
+        (CP 
+          (IP 
+            (NP (NN 今时) )
+            (VP 
+              (NP (NT 今日) )
+              (VP (MSP 所) 
+                (VP (VV 处) ))))
+          (DEC 的) )
+        (NP (NN 位置) ))
+      (VP 
+        (ADVP (AD 都) )
+        (VP (VC 是) 
+          (NP 
+            (CP 
+              (IP 
+                (VP 
+                  (PP (P 基于) 
+                    (NP (PN 你) ))
+                  (VP (MSP 所) 
+                    (VP (VV 信赖) 
+                      (NP (CC 和) 
+                        (NP (NN 梦想) ))))))
+              (DEC 的) )
+            (NP (PN 一切) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (DFL (PN 你) )
+    (ADVP (AD 就是) )
+    (NP 
+      (QP (CD 一) 
+        (CLP (M 道) ))
+      (NP (NN 风景) ))
+    (VP 
+      (VP (VE 没) 
+        (NP (NN 必要) ))
+      (VP 
+        (PP (P 在) 
+          (LCP 
+            (NP (NN 别人) (NN 风景) )
+            (LC 里面) ))
+        (VP (VV 仰视) 
+          (NP (NN 原文) (NN 地址) ))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (VP 
+      (ADVP (AD 单身) )
+      (VP 
+        (VP (VV 意味) (AS 着) 
+          (IP 
+            (NP (PN 你) )
+            (VP 
+              (ADVP (AD 足够) )
+              (VP (VA 坚强) ))))
+        (VP (VE 有) 
+          (NP 
+            (ADJP (JJ 足够) )
+            (NP (NN 耐心) )))
+        (VP (VV 去) 
+          (VP (VV 等待) 
+            (NP 
+              (DP (DT 那个) )
+              (CP 
+                (IP 
+                  (VP (VV 值得) 
+                    (IP 
+                      (VP (VV 拥有) 
+                        (NP (PN 你) )))))
+                (DEC 的) )
+              (NP (NN 人) ))))
+        (VP (VV 关注) )))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (NP 
+      (ADJP (JJ 内在) )
+      (NP (NN 心声) ))
+    (VP (CC 既) 
+      (VP (VC 是) 
+        (NP 
+          (DNP 
+            (NP (PN 我们) )
+            (DEG 的) )
+          (ADJP (JJ 最大) )
+          (NP (NN 威胁) )))
+      (VP (VC 又是) 
+        (NP 
+          (CP 
+            (IP 
+              (VP (VV 不可或缺) ))
+            (DEC 的) )
+          (NP (NN 救助) )))
+      (VP 
+        (ADVP (AD 一) )
+        (VP (VV 鸣) 
+          (VP (VV 听) 
+            (NP (NN 心) )))))
+    (PU 。) ))
+(ROOT 
+  (IP 
+    (CP 
+      (ADVP (CS 如果) )
+      (IP 
+        (NP (PN 你) )
+        (VP (VV 想) 
+          (IP 
+            (IP 
+              (VP 
+                (VP (VV 挽留) 
+                  (NP 
+                    (DNP 
+                      (NP (PN 你) )
+                      (DEG 的) )
+                    (NP (NN 爱人) )))
+                (VP 
+                  (ADVP (AD 就) )
+                  (VP (VV 放她) 
+                    (NP (NN 走吧) (NN 假若) )))))
+            (IP 
+              (NP (PN 她) )
+              (VP 
+                (VP (VV 会) 
+                  (VP (VV 回来) ))
+                (VP 
+                  (ADVP (AD 将) )
+                  (ADVP (AD 永远) )
+                  (VP (VV 属于) 
+                    (NP (PN 你) )))))
+            (CP 
+              (ADVP (CS 若) )
+              (IP 
+                (VP 
+                  (ADVP (AD 没) )
+                  (VP (VV 回来) ))))))))
+    (ADVP (AD 那么) )
+    (NP (PN 她) )
+    (VP 
+      (QP (CD 从一开始) )
+      (ADVP (AD 就) )
+      (VP (VV 注定) 
+        (IP 
+          (VP (VV 不属于) 
+            (NP (PN 你) )))))
+    (PU 。) ))

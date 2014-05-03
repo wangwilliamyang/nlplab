@@ -17,7 +17,7 @@ foreach $line (@lines)
    foreach $token (@tokens)
    {
 	@parts = split(/\#/,$token);
-	print "$index\t@parts[0]\t@parts[0]\t@parts[1]\t@parts[1]\t-\t-\t\-\t-\t-\n";
+	print "$index\t@parts[0]\t@parts[0]\t@parts[1]\t@parts[1]\t-\t-\t-\t-\t-\n";
 	$index++;
    }
    print "\n";

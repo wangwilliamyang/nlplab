@@ -1,9 +1,16 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{39}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Backstrom and Leskovec(2011)]{backstrom2011supervised}
+Lars Backstrom and Jure Leskovec.
+\newblock Supervised random walks: predicting and recommending links in social
+  networks.
+\newblock In \emph{Proceedings of the fourth ACM international conference on
+  Web search and data mining}, pages 635--644. ACM, 2011.
 
 \bibitem[Bikel and Chiang(2000)]{bikel2000two}
 Daniel~M Bikel and David Chiang.
@@ -101,6 +108,11 @@ Charles~Na Li.
 \newblock \emph{Semantics and the structure of compounds in Chinese}.
 \newblock PhD thesis, University of California, Berkeley, 1972.
 
+\bibitem[Mordowanec et~al.()Mordowanec, Schneider, Dyer, and
+  Smith]{chrissimplified}
+Michael~T. Mordowanec, Nathan Schneider, Chris Dyer, and Noah~A. Smith.
+\newblock Simplified dependency annotations with gfl-web.
+
 \bibitem[Ng and Low(2004)]{ng2004chinese}
 Hwee~Tou Ng and Jin~Kiat Low.
 \newblock Chinese part-of-speech tagging: One-at-a-time or all-at-once?
@@ -133,6 +145,14 @@ Kenji Sagae and Jun'ichi Tsujii.
   ensembles.
 \newblock In \emph{EMNLP-CoNLL}, volume 2007, pages 1044--1050, 2007.
 
+\bibitem[Schneider et~al.(2013)Schneider, O'Connor, Saphra, Bamman, Faruqui,
+  Smith, Dyer, and Baldridge]{schneider2013framework}
+Nathan Schneider, Brendan O'Connor, Naomi Saphra, David Bamman, Manaal Faruqui,
+  Noah~A Smith, Chris Dyer, and Jason Baldridge.
+\newblock A framework for (under) specifying dependency syntax without
+  overloading annotators.
+\newblock \emph{arXiv preprint arXiv:1306.2091}, 2013.
+
 \bibitem[Shen(1990)]{shen1990prosody}
 Xiao-nan~Susan Shen.
 \newblock \emph{The Prosody of Mandarin Chinese}, volume 118.
@@ -162,6 +182,13 @@ Mengqiu Wang, Kenji Sagae, and Teruko Mitamura.
   Computational Linguistics and the 44th annual meeting of the Association for
   Computational Linguistics}, pages 425--432. Association for Computational
   Linguistics, 2006.
+
+\bibitem[Wang et~al.(2013)Wang, Mazaitis, and Cohen]{wangprogramming2013}
+William~Yang Wang, Kathryn Mazaitis, and William~W Cohen.
+\newblock Programming with personalized pagerank: A locally groundable
+  first-order probabilistic logic.
+\newblock \emph{in Proceedings of the 22nd ACM International Conference on
+  Information and Knowledge Management (CIKM 2013)}, 2013.
 
 \bibitem[Wu(1997)]{wu1997stochastic}
 Dekai Wu.

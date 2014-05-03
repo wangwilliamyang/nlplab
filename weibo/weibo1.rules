@@ -1,0 +1,21 @@
+edge(V1,V2) :- adjacent(V1,V2) #adj.
+
+edge(V1,V2) :- adjacent(V1,V2),hasword(V1,W1),hasword(V2,W2),keyword(W1,W2) #parentword.
+edge(V1,V2) :- adjacent(V1,V2),haspos(V1,W1),haspos(V2,W2),keypos(W1,W2) #pos.
+
+keyword(W1,W2) :- # kw(W1,W2).
+keypos(W1,W2) :- # kp(W1,W2).
+
+# fine-grained similarity
+
+edge(V1,V2) :- similar(V1,V3),edge(V3,V4),similar(V4,V2) #prop.
+
+similar(V1,V2) :- samesent(V1,V2),hasword(V2,W),haswordinverse(W,V1) #simword.
+similar(V1,V2) :- samesent(V1,V2),haspos(V2,W),hasposinverse(W,V1) #simpos.
+
+similar(X,X) :- .
+
+
+
+
+

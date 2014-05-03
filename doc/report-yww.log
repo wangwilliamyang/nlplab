@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.6.25)  14 FEB 2014 23:35
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.6.25)  2 MAY 2014 20:22
 entering extended mode
 **C:/Users/William/Documents/GitHub/nlplab/doc/report-yww.tex
 (C:/Users/William/Documents/GitHub/nlplab/doc/report-yww.tex
@@ -161,6 +161,12 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box28
 \rot@mess@toks=\toks21
 )
+("C:\Program Files\MiKTeX 2.8\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read1
+)
 (C:\Users\William\Documents\GitHub\nlplab\doc\fancyhdr.sty
 \fancy@headwidth=\skip51
 \f@ncyO@elh=\skip52
@@ -237,14 +243,38 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 ("C:\Program Files\MiKTeX 2.8\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen123
 )
+("C:\Program Files\MiKTeX 2.8\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files\MiKTeX 2.8\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count110
+\float@exts=\toks24
+\float@box=\box55
+\@float@everytoks=\toks25
+\@floatcapt=\box56
+)
+\@float@every@algorithm=\toks26
+\c@algorithm=\count111
+)
+("C:\Program Files\MiKTeX 2.8\tex\latex\algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count112
+\c@ALC@line=\count113
+\c@ALC@rem=\count114
+\c@ALC@depth=\count115
+\ALC@tlm=\skip62
+\algorithmicindent=\skip63
+)
 (C:\Users\William\Documents\GitHub\nlplab\doc\sidecap.sty
 Package: sidecap 1999/05/11 v1.4d SideCap Package (RN/HjG)
 
 Package: SideCap v1.4d <1999/05/11> (RN/HjG)
-\SC@BOXWD=\skip62
-\SC@CAPWD=\skip63
-\c@SC@C=\count110
-\SC@BOX=\box55
+\SC@BOXWD=\skip64
+\SC@CAPWD=\skip65
+\c@SC@C=\count116
+\SC@BOX=\box57
 ) ("C:\Program Files\MiKTeX 2.8\tex\latex\caption\caption.sty"
 Package: caption 2010/01/09 v3.1m Customizing captions (AR)
 
@@ -257,93 +287,113 @@ Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
 \caption@parindent=\dimen128
 \caption@hangindent=\dimen129
 )
-\c@ContinuedFloat=\count111
+\c@ContinuedFloat=\count117
+Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: sidecap package is loaded.
 )
 (C:\Users\William\Documents\GitHub\nlplab\doc\report-yww.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 ("C:\Program Files\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count112
+\scratchcounter=\count118
 \scratchdimen=\dimen130
-\scratchbox=\box56
-\nofMPsegments=\count113
-\nofMParguments=\count114
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count115
+\scratchbox=\box58
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count121
 \MPscratchDim=\dimen131
-\MPnumerator=\count116
-\everyMPtoPDFconversion=\toks23
+\MPnumerator=\count122
+\everyMPtoPDFconversion=\toks28
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 56.
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
  ("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 56.
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 56.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 61.
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 56.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 61.
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\wasysym\uwasy.fd"
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 ) [1
 
-{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 131.
+{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 145.
 
 
 ("C:\Program Files\MiKTeX 2.8\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
- [2]
-(C:\Users\William\Documents\GitHub\nlplab\doc\report-yww.bbl [3] [4]) [5]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 145.
+ [3] [4]
+<search.png, id=28, 456.20438pt x 313.17pt>
+File: search.png Graphic file (type png)
+ <use search.png>
+<learnedparameters.png, id=30, 461.47406pt x 198.7425pt>
+File: learnedparameters.png Graphic file (type png)
+
+<use learnedparameters.png> [5 <C:/Users/William/Documents/GitHub/nlplab/doc/se
+arch.png>] <uas.png, id=35, 353.82187pt x 190.46156pt>
+File: uas.png Graphic file (type png)
+ <use uas.png>
+<speed.png, id=36, 341.77687pt x 177.66376pt>
+File: speed.png Graphic file (type png)
+ <use speed.png> [6 <C:/Users/William/Documents/GitHub/nlplab/doc/learnedparame
+ters.png>]
+(C:\Users\William\Documents\GitHub\nlplab\doc\report-yww.bbl [7 <C:/Users/Willi
+am/Documents/GitHub/nlplab/doc/uas.png> <C:/Users/William/Documents/GitHub/nlpl
+ab/doc/speed.png>] [8] [9]) [10]
 (C:\Users\William\Documents\GitHub\nlplab\doc\report-yww.aux) ) 
 Here is how much of TeX's memory you used:
- 4048 strings out of 495285
- 57540 string characters out of 3180388
- 130690 words of memory out of 3000000
- 7171 multiletter control sequences out of 15000+200000
- 15975 words of font info for 66 fonts, out of 3000000 for 9000
+ 4350 strings out of 495285
+ 61691 string characters out of 3180388
+ 134188 words of memory out of 3000000
+ 7453 multiletter control sequences out of 15000+200000
+ 17975 words of font info for 76 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,11n,43p,399b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,43p,384b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program File
 s/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX
- 2.8/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.8/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/
-public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/am
-sfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm
-/cmr6.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-<C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Progra
-m Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/
-MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2
-.8/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report-yww.pdf (5 pages, 166531 bytes).
+ 2.8/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.8/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr17.p
+fb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Pro
+gram Files/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
+/MiKTeX 2.8/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.
+8/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.8/fonts/
+type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/pu
+blic/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/ams
+fonts/symbols/msbm10.pfb>
+Output written on report-yww.pdf (10 pages, 265303 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

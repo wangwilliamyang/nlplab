@@ -1,0 +1,25 @@
+edge,-1,-2 & adjacent,-1,-2 # adj # V1,V2
+edge,-1,-2 & haswordinverse,-3,-1 & adjacent,-1,-2 & hasword,-2,-4 & keyword,-3 & keypword,-4 # parentword # V1,V2,W1,W2
+edge,-1,-2 & hasposinverse,-3,-1 & adjacent,-1,-2 & haspos,-2,-4 & keypos,-3 & keyppos,-4 # pos # V1,V2,W1,W2
+edge,-1,-2 & haswordinverse,-3,-1 & skipone,-1,-2 & hasword,-2,-4 & keysoword,-3 & keypsoword,-4 # skiponeword # V1,V2,W1,W2
+edge,-1,-2 & hasposinverse,-3,-1 & skipone,-1,-2 & haspos,-2,-4 & keysopos,-3 & keypsopos,-4 # skiponepos # V1,V2,W1,W2
+edge,-1,-2 & haswordinverse,-3,-1 & skiptwo,-1,-2 & hasword,-2,-4 & keystword,-3 & keypstword,-4 # skiptwoword # V1,V2,W1,W2
+edge,-1,-2 & hasposinverse,-3,-1 & skiptwo,-1,-2 & haspos,-2,-4 & keystpos,-3 & keypstpos,-4 # skiptwopos # V1,V2,W1,W2
+edge,-1,-2 & haswordinverse,-3,-1 & skipthree,-1,-2 & hasword,-2,-4 & keysthword,-3 & keypsthword,-4 # skipthword # V1,V2,W1,W2
+edge,-1,-2 & hasposinverse,-3,-1 & skipthree,-1,-2 & haspos,-2,-4 & keysthpos,-3 & keypsthpos,-4 # skipthpos # V1,V2,W1,W2
+keyword,-1 # kw,-1 # W
+keypword,-1 # kpw,-1 # W
+keypos,-1 # kp,-1 # W
+keyppos,-1 # kpp,-1 # W
+keysoword,-1 # ksow,-1 # W
+keypsoword,-1 # kpsow,-1 # W
+keysopos,-1 # ksop,-1 # W
+keypsopos,-1 # kpsop,-1 # W
+keystword,-1 # kstw,-1 # W
+keypstword,-1 # kpstw,-1 # W
+keystpos,-1 # kstp,-1 # W
+keypstpos,-1 # kpstp,-1 # W
+keysthword,-1 # ksthw,-1 # W
+keypsthword,-1 # kpsthw,-1 # W
+keysthpos,-1 # ksthp,-1 # W
+keypsthpos,-1 # kpsthp,-1 # W
